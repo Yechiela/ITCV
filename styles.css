@@ -41,7 +41,7 @@ body{
   background-color: black;
   position: relative;
   padding-top: 200px;
-  padding-bottom: 20px;
+  padding-bottom: 100px;
 
 }
 
@@ -63,7 +63,7 @@ body{
 .contact-container{
   background-color: black;
   position: relative;
-  padding-top: 200px;
+  padding-top: 50px;
   padding-bottom: 300px;
 }
 
@@ -77,7 +77,7 @@ body{
 .hobbies-container{
   background-color: black;
   position: relative;
-  padding-top: 200px;
+  padding-top: 50px;
   padding-bottom: 80px;
 }
 
